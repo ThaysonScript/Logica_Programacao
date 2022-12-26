@@ -1,5 +1,6 @@
 lista = []
 soma = 0
+
 while True:
     vals = map(int, input().split())
     n1, n2 = vals
